@@ -1,1 +1,2 @@
-Evidencias para el curso Introducción a la Ciencia de Datos
+Evidencias del curso de Introducción a la Ciencia de Datos (ICD)
+- Jorge de Jesús Cazares Duran
